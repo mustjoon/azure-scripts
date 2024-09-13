@@ -139,6 +139,3 @@ function Enumerate() {
 
 
 Enumerate
-
-
-#Login -email "mustjoon@gmail.com" -password "password";
